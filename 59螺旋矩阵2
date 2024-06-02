@@ -36,7 +36,7 @@ public:
         return result;
     }
 };
-// @lc code=end
+
 int main() {
     Solution sol;
     vector<vector<int>> result;
